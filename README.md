@@ -8,3 +8,9 @@ paper_mill_challenge.ipynb: Code for data exploration and basic modeling
 processminer-rare-event-detection-data-augmentation.xlsx: Original raw data
 
 Project Description.pdf: Description of problem, data, and task
+
+raw_data.csv: Raw data in .csv format
+
+train.csv: Data to train your model on
+
+test.csv: Test your model on this data
